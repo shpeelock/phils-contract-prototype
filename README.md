@@ -1,3 +1,4 @@
+![Phil's Contract Logo](philscontractlogorev2.png)
 ## PHIL'S CONTRACT JUNE 27TH PROTOTYPE DEMO
 
 Very buggy and unfinished prototype of Phil's Contract, contains a first level, Phil with most of his moveset done and extremely early level design.
